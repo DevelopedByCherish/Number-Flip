@@ -1,6 +1,4 @@
 //Cherish Shanks
-//IT145
-//Programming Problem
 //May 29,2016
 
 
